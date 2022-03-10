@@ -14,7 +14,7 @@ public class Main {
 
         System.out.print(+chislo);
     }
-
+/////////
     public static void main(String[] args) {
         libnic();
     }
